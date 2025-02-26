@@ -10,8 +10,10 @@ def sum_mult (a, b):
     else:
         return sum
 
-num1 = float(input("введите первое число: "))
-num2 = float(input("введите второе число: "))
+# num1 = float(input("введите первое число: "))
+# num2 = float(input("введите второе число: "))
+num1 = 17
+num2 = 22
 
 print(sum_mult(num1, num2))
 
